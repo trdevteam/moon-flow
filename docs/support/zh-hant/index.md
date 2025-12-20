@@ -13,4 +13,4 @@ Email：help.moonflow@gmail.com
 - 隱身模式：可隱藏為計算機圖示，並用 PIN 開啟
 
 ## 隱私
-隱私政策：PRIVACY_URL_HERE
+隱私政策：Privacy Policy: [Privacy Policy](../../privacy/)

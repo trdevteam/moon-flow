@@ -14,7 +14,6 @@ Need help with MoonFlow? Contact us anytime:
 - English (U.K.) — [en-GB](./en/)
 - English (Canada) — [en-CA](./en/)
 - English (Australia) — [en-AU](./en/)
-
 - Arabic — [ar](./ar/)
 - German — [de](./de/)
 - Spanish (Spain) — [es-ES](./es-ES/)
