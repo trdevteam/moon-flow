@@ -13,4 +13,4 @@ MoonFlow に関するお問い合わせはこちら。
 - ステルスモード: 電卓アイコン風に隠して PIN で開けます
 
 ## プライバシー
-プライバシーポリシー: PRIVACY_URL_HERE
+プライバシーポリシー: [Privacy Policy](../../privacy/ja)

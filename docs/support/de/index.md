@@ -13,4 +13,4 @@ E-Mail: help.moonflow@gmail.com
 - Stealth Mode: App hinter Taschenrechner-Icon verstecken, per PIN öffnen
 
 ## Datenschutz
-Datenschutzerklärung: PRIVACY_URL_HERE
+Datenschutzerklärung: [Privacy Policy](../../privacy/de)

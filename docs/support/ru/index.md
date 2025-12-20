@@ -27,4 +27,4 @@ MoonFlow → Premium → Restore Purchases.
 Можно скрыть приложение под иконкой калькулятора и открывать по PIN.
 
 ## Конфиденциальность
-Политика конфиденциальности: PRIVACY_URL_HERE
+Политика конфиденциальности: [Privacy Policy](../../privacy/ru)

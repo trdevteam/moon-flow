@@ -13,4 +13,4 @@ Correo: help.moonflow@gmail.com
 - Modo sigiloso: icono de calculadora + PIN
 
 ## Privacidad
-Política de privacidad: PRIVACY_URL_HERE
+Política de privacidad: [Privacy Policy](../../privacy/es-ES)

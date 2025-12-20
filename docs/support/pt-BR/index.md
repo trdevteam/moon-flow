@@ -13,4 +13,4 @@ Email: help.moonflow@gmail.com
 - Modo furtivo: ícone de calculadora + PIN
 
 ## Privacidade
-Política de privacidade: PRIVACY_URL_HERE
+Política de privacidade: [Privacy Policy](../../privacy/pt-BR)

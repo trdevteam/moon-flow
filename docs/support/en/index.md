@@ -30,4 +30,4 @@ If it still fails, email us with your device model and iOS version.
 Stealth Mode can hide the app behind a calculator-style icon. You can open MoonFlow with your PIN.
 
 ## Privacy
-Privacy Policy: - [Privacy Policy](../privacy/)
+Privacy Policy: - [Privacy Policy](../../privacy/en)

@@ -13,4 +13,4 @@ Email: help.moonflow@gmail.com
 - Stealth Mode: ikon kalkulator + buka dengan PIN
 
 ## Privasi
-Kebijakan Privasi: PRIVACY_URL_HERE
+Kebijakan Privasi: [Privacy Policy](../../privacy/in)

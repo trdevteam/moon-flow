@@ -29,4 +29,4 @@ MoonFlow → Premium → Restore Purchases.
 يمكن إخفاء التطبيق خلف أيقونة آلة حاسبة وفتحه بواسطة رقم PIN.
 
 ## الخصوصية
-سياسة الخصوصية: PRIVACY_URL_HERE
+سياسة الخصوصية: [Privacy Policy](../../privacy/ar)

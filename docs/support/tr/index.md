@@ -29,4 +29,4 @@ Devam ederse cihaz modelinizi ve iOS sürümünü yazarak bize e-posta gönderin
 Uygulamayı hesap makinesi simgesi gibi gizleyebilir ve PIN ile açabilirsiniz.
 
 ## Gizlilik
-Gizlilik Politikası: PRIVACY_URL_HERE
+Gizlilik Politikası: [Privacy Policy](../../privacy/tr)
