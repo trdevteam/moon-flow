@@ -1,33 +1,31 @@
+---
+title: MoonFlow Support
+---
+
 # MoonFlow Support
 
-Need help with MoonFlow? We’re here.
+Need help with MoonFlow? Contact us anytime:
 
-## Contact
-Email: help.moonflow@gmail.com
+**Email:** help.moonflow@gmail.com
 
-## Frequently Asked Questions
+## Support pages by language
 
-### Do I need an account?
-No. MoonFlow does not require account registration.
+- English (U.S.) — [en-US](./en/)
+- English (U.K.) — [en-GB](./en/)
+- English (Canada) — [en-CA](./en/)
+- English (Australia) — [en-AU](./en/)
 
-### Does MoonFlow need internet?
-No for core features. Your cycle tracking works offline. Internet may be needed only for restoring purchases.
-
-### Where is my data stored?
-Your health data is stored locally on your device.
-
-### How do I restore purchases?
-Open MoonFlow → Premium → Restore Purchases.
-
-### I can’t see subscription options / products won’t load
-- Check your internet connection
-- Try again after a few minutes (store sync can take time)
-- Confirm you’re using the same Apple ID used for TestFlight / purchases
-- Try Restore Purchases
-If it still fails, email us with your device model and iOS version.
-
-### How does Stealth Mode work?
-Stealth Mode can hide the app behind a calculator-style icon. You can open MoonFlow with your PIN.
-
-## Privacy
-Privacy Policy: - [Privacy Policy](../privacy/)
+- Arabic — [ar](./ar/)
+- German — [de](./de/)
+- Spanish (Spain) — [es-ES](./es-ES/)
+- Spanish (Mexico) — [es-MX](./es-MX/)
+- French — [fr](./fr/)
+- Hindi — [hi](./hi/)
+- Indonesian — [id](./in/)  
+- Japanese — [ja](./ja/)
+- Portuguese (Brazil) — [pt-BR](./pt-BR/)
+- Portuguese (Portugal) — [pt-PT](./pt-PT/)
+- Russian — [ru](./ru/)
+- Turkish — [tr](./tr/)
+- Chinese (Simplified) — [zh-Hans](./zh-hans/)
+- Chinese (Traditional) — [zh-Hant](./zh-hant/)
