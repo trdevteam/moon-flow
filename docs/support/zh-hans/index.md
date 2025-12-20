@@ -13,4 +13,4 @@
 - 隐身模式：可隐藏为计算器图标，并使用 PIN 打开
 
 ## 隐私
-隐私政策：[Privacy Policy](../../privacy/zn-hans)
+隐私政策：[Privacy Policy](../../privacy/zh-hans)
