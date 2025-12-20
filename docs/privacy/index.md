@@ -87,8 +87,7 @@ Because your data is stored locally on your device, you can remove it by:
 
 If you have questions about privacy, contact:
 
-**Email:** support@YOURDOMAIN.com  
-(Replace this with your real support email.)
+**Email:** help.moonflow@gmail.com  
 
 ---
 
