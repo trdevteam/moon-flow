@@ -1,12 +1,14 @@
 ---
-title: MoonFlow Privacy Policy
+title: MoonFlow Terms of Use
 ---
 
-# MoonFlow Privacy Policy
+# MoonFlow Terms of Use
 
-MoonFlow is designed with privacy as a top priority.
+Need help with MoonFlow? Contact us anytime:
 
-## Privacy policy by language
+**Email:** help.moonflow@gmail.com
+
+## Terms of Use pages by language
 
 - English (U.S.) — [en-US](./en/)
 - English (U.K.) — [en-GB](./en/)
@@ -18,7 +20,7 @@ MoonFlow is designed with privacy as a top priority.
 - Spanish (Mexico) — [es-MX](./es-MX/)
 - French — [fr](./fr/)
 - Hindi — [hi](./hi/)
-- Indonesian — [id](./id/)
+- Indonesian — [id](./id/)  
 - Japanese — [ja](./ja/)
 - Portuguese (Brazil) — [pt-BR](./pt-BR/)
 - Portuguese (Portugal) — [pt-PT](./pt-PT/)

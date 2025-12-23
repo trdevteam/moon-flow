@@ -20,7 +20,7 @@ Need help with MoonFlow? Contact us anytime:
 - Spanish (Mexico) — [es-MX](./es-MX/)
 - French — [fr](./fr/)
 - Hindi — [hi](./hi/)
-- Indonesian — [id](./in/)  
+- Indonesian — [id](./id/)  
 - Japanese — [ja](./ja/)
 - Portuguese (Brazil) — [pt-BR](./pt-BR/)
 - Portuguese (Portugal) — [pt-PT](./pt-PT/)
