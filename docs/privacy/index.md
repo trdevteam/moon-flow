@@ -26,3 +26,5 @@ MoonFlow is designed with privacy as a top priority.
 - Turkish — [tr](./tr/)
 - Chinese (Simplified) — [zh-Hans](./zh-hans/)
 - Chinese (Traditional) — [zh-Hant](./zh-hant/)
+- Bengali — [bn](./bn/)
+- Urdu — [ur](./ur/)
